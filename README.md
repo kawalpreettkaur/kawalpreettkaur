@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @kawalpreettkaur
-- 🌱 I’m currently learning data structures.
+- 🌱 I’m currently learning data structures & algorithms.
 
