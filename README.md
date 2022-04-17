@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @kawalpreettkaur
-- 🌱 I’m currently learning data structures & algorithms.
-
+- 🌱 I'm a Software Engineer
